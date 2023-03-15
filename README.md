@@ -1,9 +1,4 @@
-#Pedro 
+# Pedro 
 
------
+---
 
-##Experiencia 
-
--html
--css
--teste
