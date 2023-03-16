@@ -5,11 +5,11 @@
 
 ## Dados Pessoais 
 
--telefone:14999999
--email:pedroooooo@gmail.com
+- telefone:14999999
+- email:pedroooooo@gmail.com
 
 ## Expericiencia
 
--html
--css
+- html
+- css
 
